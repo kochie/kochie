@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- ### I build things, write the code for them, and run if it explodes 🚀💥💥! 
  <img style="margin: 0 auto;" src="https://media.giphy.com/media/xT5LMw3kV3oopaAmWY/giphy.gif"></img>
 </p>
 Hello there, welcome! I'm Robert, engineer and programmer. I'm from Melbourne, Australia.
