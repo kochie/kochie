@@ -1,4 +1,4 @@
-### Hi there 👋
+### I build things, write the code for them, and run if it explodes 🚀💥💥! 
 
 <!--
 **kochie/kochie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://media.giphy.com/media/xT5LMw3kV3oopaAmWY/giphy.gif"></img>
