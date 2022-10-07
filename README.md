@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Hello there, welcome! I'm Robert, engineer and programmer. I'm from Melbourne, Australia.
 
 ## Where you can find me
-- I have a site I keep up to date [me.kochie.io](me.kochie.io)
+- I have a site I keep up to date [me.kochie.io](https://me.kochie.io)
 - I also tweet [@kochie](https://twitter.com/kochie)
 
 [![@kochie's Holopin board](https://holopin.io/api/user/board?user=kochie)](https://holopin.io/@kochie)
