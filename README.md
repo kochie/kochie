@@ -24,6 +24,7 @@ Hello there, welcome! I'm Robert, engineer and programmer. I'm from Melbourne, A
 ## Where you can find me
 - I have a site I keep up to date [me.kochie.io](https://me.kochie.io)
 - I also tweet [@kochie](https://twitter.com/kochie)
+- I've been known to blog. [blog.kochie.io](https://blog.kochie.io)
 
 [![@kochie's Holopin board](https://holopin.io/api/user/board?user=kochie)](https://holopin.io/@kochie)
 
